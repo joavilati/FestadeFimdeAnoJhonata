@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Festa de Fim de Ano</string>
+    <string name="dias_restante_para_o_fim_do_ano">Dias restante para o fim do ano</string>
+    <string name="nao_confirmado">Não confirmado</string>
+    <string name="sim">Sim</string>
+    <string name="não">Não</string>
+    <string name="sim_nao_nao_confirmado">SIM/NAO/NÃO CONFRIMADO</string>
+    <string name="dias_restantes">365 dias</string>
+
+</resources>
